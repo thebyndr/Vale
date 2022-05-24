@@ -33,8 +33,8 @@ According to the project, thanks to this application, you can see the empty spac
 | Directory                | Explanation                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | ➥ ~../screens           | All pages                         |
-| ➥ ~./Login             | Login        |
-| ➥ ~./SignUp&&araba        |Register                                                                      |
+| ➥ ~./Login.js             | Login        |
+| ➥ ~./SignUp.js && araba.js        |Register                                                                      |
 | ➥ ~./timer.js            | User reservation information                                                                                      |
 | ➥ ~./map.js             | map of Car parks                                                                                       |
 | ➥~./Navigation         | Makes routing to middlewares and (/or) controllers.                                        |
