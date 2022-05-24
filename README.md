@@ -3,6 +3,7 @@ Mobil Application of VALE Smart Parking System Project
 
 
 
+![vale5](https://user-images.githubusercontent.com/57766774/170039595-840c5afe-b408-4c71-b48a-ef2ef05a1a29.png)
 
 
 
@@ -19,7 +20,7 @@ _Be aware of that is incomplete documentation!_
  Vale is Mobile Application  of the VALE Smart Parking System that we prepared for Teknofest within the IEEE.
 
 ### Features
-Vale is the first project I used react native
+Vale is the first project I used react native.
 According to the project, thanks to this application, you can see the empty spaces in the car parks and make reservations. Thus, there is no problem of not finding an empty space in the parking lot. The project was unfinished, but I continued to develop the mobile application. I keep looking at this application as I find time.
 
 
