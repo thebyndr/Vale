@@ -4,9 +4,9 @@ import {createStackNavigator,TransitionPresets,CardStyleInterpolators,HeaderStyl
 import { View, Text } from 'react-native';
 import { fromLeft, zoomIn, zoomOut } from 'react-navigation-transitions'
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import SignUp from '../screens/SignUp';
-import Login from '../screens/Login';
-import araba from '../screens/araba';
+import SignUp from '../screens/Authentication/SignUp';
+import Login from '../screens/Authentication/Login';
+import araba from '../screens/Authentication/araba';
 import forgot from'../screens/forgot';
 import map from '../screens/map';
 import iücdoluluk from'../screens/OtoparkDoluluk/iüc/iücdoluluk'
