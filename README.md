@@ -32,10 +32,7 @@ According to the project, thanks to this application, you can see the empty spac
 | Directory                | Explanation                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | ➥ ~../screens           | All pages                         |
-<<<<<<< HEAD
 | ➥ ~../OtoparkDoluluk           | Informations of Car Parks                        |
-=======
->>>>>>> 7352935be33c5d22af609a9313d14068ee3a99df
 | ➥ ~./Login.js             | Login        |
 | ➥ ~./SignUp.js && araba.js        |Register                                                                      |
 | ➥ ~./timer.js            | User reservation information                                                                                      |
