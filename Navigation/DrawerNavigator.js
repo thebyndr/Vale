@@ -3,7 +3,7 @@ import {NavigationContainer} from '@react-navigation/native';
 
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import timer from '../screens/timer'
-import iücdoluluk from'../screens/OtoparkAlanları/iüc/iücdoluluk'
+import iücdoluluk from'../screens/OtoparkDoluluk/iüc/iücdoluluk'
 import {Navigation} from './Navigation'
 import Drawerr from "../screens/drawer"
 const Drawer = createDrawerNavigator();

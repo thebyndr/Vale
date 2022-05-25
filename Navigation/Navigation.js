@@ -9,8 +9,8 @@ import Login from '../screens/Login';
 import araba from '../screens/araba';
 import forgot from'../screens/forgot';
 import map from '../screens/map';
-import iücdoluluk from'../screens/OtoparkAlanları/iüc/iücdoluluk'
-import iücotoparkalanlar from'../screens/DinamikButton/iücotoparkalanlar'
+import iücdoluluk from'../screens/OtoparkDoluluk/iüc/iücdoluluk'
+import iücotoparkalanlar from'../screens/OtoparkDoluluk/iüc/iücotoparkalanlar'
 import timer from '../screens/timer'
 import iletisim from '../screens/iletisim'
 import drawer from '../screens/drawer'
