@@ -33,8 +33,8 @@ According to the project, thanks to this application, you can see the empty spac
 | ------------------------ | ------------------------------------------------------------------------------------------ |
 | ➥ ~../screens           | All pages                         |
 | ➥ ~../OtoparkDoluluk           | Informations of Car Parks                        |
-| ➥ ~./Login.js             | Login        |
-| ➥ ~./SignUp.js && araba.js        |Register                                                                      |
+| ➥ ~./Authentication            | Login and Register       |
+| ➥ ~./Assets       |Photos used in the app                                                                   |
 | ➥ ~./timer.js            | User reservation information                                                                                      |
 | ➥ ~./map.js             | map of Car parks                                                                                       |
 | ➥~./Navigation/Navigation.js && DrawerNavigator         | Makes routing to middlewares and (/or) controllers.                                        |
