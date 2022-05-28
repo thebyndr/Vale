@@ -10,7 +10,7 @@ Mobil Application of VALE Smart Parking System Project
 
 
 ![](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=blue)
-![](https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=yellow)
+![](https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=yellow)
 ![](https://img.shields.io/badge/Google%20Maps-blue?logo=google&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
